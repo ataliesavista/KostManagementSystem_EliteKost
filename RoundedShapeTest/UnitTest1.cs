@@ -4,6 +4,10 @@ using System.Drawing;
 using System.Windows.Forms;
 using RoundedShape2;
 
+/*
+ UNIT TEST
+ */
+
 namespace RoundedShapeTest
 {
     [TestClass]
